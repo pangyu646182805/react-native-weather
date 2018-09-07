@@ -7,7 +7,7 @@ react native天气预报
 ## 截图预览
 IOS | Android
 --------- | -------------
-![ios](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/ios.png?raw=true) | ![ios](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/android.png?raw=true)
+![ios](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/ios.png?raw=true) | ![android](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/android.png?raw=true)
 
 ## 技术框架
 * `"react": "16.4.1"`
@@ -27,6 +27,10 @@ IOS | Android
 
 ## 项目地址
 [RN天气](https://github.com/pangyu646182805/react-native-weather/tree/master)
+
+
+
+
 
 
 
