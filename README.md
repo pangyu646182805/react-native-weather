@@ -5,9 +5,11 @@ react native天气预报
 最近开始学习React Native，天气预报app就是用来练手的成果。整体界面模仿的三星自带的天气app界面。由于RN才刚刚入门，可能会有一些bug，如果发现欢迎提出。      
 
 ## 截图预览
-IOS | Android
---------- | -------------
-![ios](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/ios.png?raw=true) | ![android](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/android.png?raw=true)
+|  | IOS | Android |
+| ------ | ------ | ------ |
+| 主界面 | ![ios](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/ios/Snip20180910_7.png?raw=true) | ![android](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/android/Snip20180910_12.png?raw=true) |
+| 添加城市 | ![ios](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/ios/Snip20180910_8.png?raw=true) | ![android](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/android/Snip20180910_13.png?raw=true) |
+| 城市管理 | ![ios](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/ios/Snip20180910_9.png?raw=true) | ![android](https://github.com/pangyu646182805/react-native-weather/blob/master/Screenshot/android/Snip20180910_11.png?raw=true) |
 
 ## 技术框架
 * `"react": "16.4.1"`
